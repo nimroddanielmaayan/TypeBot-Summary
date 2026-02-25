@@ -20,4 +20,5 @@
 - The only thing that TypeBot lacks is user dashboards for the clients. So for
   clients that need that, WotNot and LandBot can be good options
 
--
+- This is a good example of combining TypeBot with n8n:
+  <https://www.youtube.com/watch?v=Qmru6rZ16oE>
