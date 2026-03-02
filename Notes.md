@@ -4,8 +4,9 @@
 
 ### The Basics
 
-- The purpose of Typebot is to provide a polished front end for a web chatbot.
-  It's best used along with a different application as a back end
+- The purpose of Typebot is to provide a "polished front end" for a web chatbot
+  or a WhatsApp chatbot. It's best used along with a different application as a
+  back end for AI and automations
 
 - Typebot has a native WordPress plugin
 
